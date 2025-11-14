@@ -1,0 +1,15 @@
+{
+  "name": "claude-tmux",
+  "version": "1.0.0",
+  "description": "CLI utility for Claude to work with tmux windows in a single session",
+  "main": "index.js",
+  "bin": {
+    "claude-tmux": "./bin/claude-tmux.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["tmux", "claude", "cli"],
+  "author": "",
+  "license": "MIT"
+}
